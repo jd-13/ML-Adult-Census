@@ -10,4 +10,4 @@ A rough outline of the steps taken is as follows:
 3. Grid search on several models to identify which will most likely be successful
 4. Visualise the performance of the models to better understand shortcomings and areas for improvement
 5. Continue to tune the most promising models
-6. Test the predictions on the test set
+6. Run the model on the test set
