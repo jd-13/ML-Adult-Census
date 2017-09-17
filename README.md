@@ -1,5 +1,7 @@
 This notebook uses US census information to attempt to predict whether an individual earns more or less than $50k.  
 
+The final model achieves an accuracy of 86.7% on the test data set.  
+
 The data used can be found here: https://www.kaggle.com/uciml/adult-census-income  
 
 ### Overview
